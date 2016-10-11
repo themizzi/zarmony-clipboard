@@ -1,4 +1,4 @@
-dotfiles:
+zarmony:
     package: themizzi/clipboard
     author: themizzi
     version: 0.1.0
